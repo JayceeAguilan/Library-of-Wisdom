@@ -1,8 +1,24 @@
-# Library of Wisdom
+# 📚 Library of Wisdom
+
+![Project Logo Placeholder](logo.png)
 
 **A Markdown-based Digital Encyclopedia**
 
 A collaborative knowledge management system where all entries are written and stored using Markdown—a lightweight markup language that uses plain text formatting syntax.
+
+---
+
+## 📑 Table of Contents
+- [Project Objective](#-project-objective)
+- [Project Structure](#-project-structure)
+- [Golden Rule](#-golden-rule)
+- [Team Members & Roles](#-team-members--roles)
+- [Activity Phases](#-activity-phases)
+- [Getting Started](#-getting-started)
+- [Contributing](#-contributing)
+- [Learning Objectives](#-learning-objectives)
+
+---
 
 ## 🎯 Project Objective
 
@@ -78,6 +94,7 @@ Evaluation criteria:
    ```
 
 3. **Complete your assigned task**
+
 
 4. **Commit your changes:**
    ```bash
