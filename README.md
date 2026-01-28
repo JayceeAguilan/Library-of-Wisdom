@@ -2,6 +2,14 @@
 
 ![Project Logo Placeholder](logo.png)
 
+## Project Mission Statement
+
+The Library of Wisdom is a collaborative, Markdown-based digital encyclopedia
+designed to demonstrate best practices in distributed version control. Our
+mission is to share knowledge while learning how to work effectively with
+Git branches, pull requests, and merge conflict resolution as a team.
+
+
 **A Markdown-based Digital Encyclopedia**
 
 A collaborative knowledge management system where all entries are written and stored using Markdown—a lightweight markup language that uses plain text formatting syntax.
@@ -29,7 +37,7 @@ Collaboratively build a shared digital encyclopedia while mastering Git workflow
 ```
 Library-of-Wisdom/
 ├── README.md
-├── CONTRIBUTING.md
+├── CONTRIBUTING.md`
 ├── data/
 │   └── entries.json
 ├── history.md
