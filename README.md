@@ -31,7 +31,7 @@ All changes must come through Pull Requests (PRs). This applies to everyone, inc
 | Member | Name | Role | Task |
 |--------|------|------|------|
 | Lead | Aguilan, John Christopher A. | Repository Owner | Setup & Oversight |
-| Member 1 | Aguilar, Alexander Josh A. | **The Navigator** | Create CONTRIBUTING.md |
+| Member 1 | Aguilan, John Christopher A. | **The Navigator** | Create CONTRIBUTING.md |
 | Member 2 | Alico Cyreen G. | **The Historian** | Create history.md with Git facts |
 | Member 3 | Aguilar, Justin Mikael | **The Stylist** | Update README with header & TOC |
 | Member 4 | Abalos, Keith Lawrenz | **The Coder** | Create script.js |
